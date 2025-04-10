@@ -1,7 +1,7 @@
 
 <img align="center" alt="Banner-Img" src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif">
 <h1 align="center">Hi 👋, I'm Nandhakumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Tamil Nadu, India</h3>
 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=nandhakumar-chinnadurai&label=Profile%20views&color=0e75b6&style=flat" alt="nandhakumar-chinnadurai"/></p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bcanandhakc3202@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GEAmb8s_25EN9CHpRUue1nIpLoh30mGr/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ahXQkO29wupvHoMGxIBiFIYkFkNC-rZS/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
